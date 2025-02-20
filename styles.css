@@ -79,7 +79,7 @@ body {
     height: 170px;
     margin-right: 50px;
 }.image {
-    width: 250px; /* Tamaño fijo */
+    width: 210px; /* Tamaño fijo */
     height: auto; /* Mantiene la proporción */
     max-width: 100%; /* Asegura que no sea más grande que su contenedor */
     position: absolute;

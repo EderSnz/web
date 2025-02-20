@@ -79,11 +79,12 @@ body {
     height: 170px;
     margin-right: 50px;
 }.image {
-    width: 250px; /* Tamaño mediano */
+    width: 250px; /* Tamaño fijo */
     height: auto; /* Mantiene la proporción */
-    position: absolute; /* Permite mover la imagen con coordenadas */
-    top: 550px; /* Distancia desde la parte superior */
-    left: 120px; /* Distancia desde la izquierda */
+    max-width: 100%; /* Asegura que no sea más grande que su contenedor */
+    position: absolute;
+    top: 550px;
+    left: 120px;
 }izquierda {
     float: right; /* Mueve la imagen a la izquierda */
     margin-left: 5px; /* Da espacio entre la imagen y el texto */

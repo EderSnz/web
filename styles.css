@@ -83,7 +83,7 @@ body {
     height: auto; /* Mantiene la proporción */
     max-width: 100%; /* Asegura que no sea más grande que su contenedor */
     position: absolute;
-    top: 600px;
+    top: 720px;
     left: 100px;
 }izquierda {
     float: right; /* Mueve la imagen a la izquierda */

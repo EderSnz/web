@@ -66,7 +66,12 @@ body {
 .black:hover {
     background-color: #e683c2;
 }
-
+.yellow:hover{
+    background-color: #E6A100;
+}
+.yellow{
+    background-color: #E6A100;
+}
 .header {
     display: flex;
     align-items: center;
@@ -85,7 +90,12 @@ body {
     position: absolute;
     top: 680px;
     left: 100px;
-}izquierda {
+}izquierda 
     float: right; /* Mueve la imagen a la izquierda */
     margin-left: 5px; /* Da espacio entre la imagen y el texto */
 
+    b {
+  text-align: left;
+}
+    
+    
